@@ -1,0 +1,21 @@
+.customerEditor{
+	left: 5vw;
+	width: 920px;
+	top: 8vh;
+	height: 480px;
+}
+	.customerEditor .col1,
+	.customerEditor .col2{
+		display: inline-block;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		width: 45%;
+		vertical-align: top;
+		margin: 0;
+		padding: 2em 0;
+	}
+.addressEditor{
+	height:  400px;
+	width: 650px;
+}
